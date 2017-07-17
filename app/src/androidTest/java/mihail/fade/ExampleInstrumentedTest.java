@@ -1,4 +1,4 @@
-package r00we.fadetest;
+package mihail.fade;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

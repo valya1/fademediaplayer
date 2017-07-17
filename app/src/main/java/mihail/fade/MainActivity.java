@@ -1,4 +1,4 @@
-package r00we.fadetest;
+package mihail.fade;
 
 import android.os.Bundle;
 import android.os.Handler;

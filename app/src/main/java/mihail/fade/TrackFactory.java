@@ -1,4 +1,4 @@
-package r00we.fadetest;
+package mihail.fade;
 
 import java.util.ArrayList;
 import java.util.List;
